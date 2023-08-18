@@ -8,3 +8,8 @@ The repository contains the following files:
 - docs: contains the documentation for the source code
 - refs: contains the references for the source code
 
+
+
+## Advantages of MonteCarlo
+- Method to generate data samples for a study. The samples can follow an specific distribution of the analyst choosing.
+- You can study the relationship of the such input samples and the behavior of the power system under study for operation and planning analysis. 
